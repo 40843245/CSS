@@ -4,3 +4,8 @@
 
 ## Front-End development
 Front-end web development is the development of the GUI (stands for graphical user interface) of a website so users can view and interact with that website.
+
+## OOCSS
+Object Oriented CSS is a concept that consider css style as an object.
+
+It has similar feature to OOP.
